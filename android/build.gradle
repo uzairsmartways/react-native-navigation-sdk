@@ -106,7 +106,7 @@ dependencies {
   implementation 'androidx.car.app:app-projected:1.4.0'
 
   // Navigation SDK library
-  implementation "com.google.android.libraries.navigation:navigation:$nav_sdk_version"
+  implementation "com.google.android.libraries.navigation:navigation:5.99.1"
 
   // Support libraries
   implementation 'com.google.code.gson:gson:2.12.1'
